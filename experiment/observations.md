@@ -1,5 +1,3 @@
-### Procedure
-
 - The pitch period for the same speaker varies with respect to time as well as varies across speakers. This clearly illustrates the variability of speech signal.
 
 - For a given sound-unit, the formant frequency values vary slightly for the same speaker. This illustrates the variability of the vocal tract system characteristics within the same speaker.

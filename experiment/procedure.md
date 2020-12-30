@@ -1,5 +1,3 @@
-### Procedure
-
 - Step1: Load speech for three vowels in the context of heed (for vowel /i/), head (for vowel /e/) and hod (for vowel /a/).
 
 - Step2: Click on the 'Generate Spectrum' button to view its autocorrelation sequence and LP log spectrum.

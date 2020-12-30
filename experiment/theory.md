@@ -1,5 +1,3 @@
-### Link your theory in here
-
 1. Obtaining speech signal
 
     Load speech signals for heed, head, hod using the provided utility.
