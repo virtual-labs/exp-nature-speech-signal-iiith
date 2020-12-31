@@ -41,10 +41,10 @@
     $/i/$
     Figure 3: LPC spectrum of a short segment of vowel /a/ in the utterance of 'hod'. The spectrum is obtained using 10th order LP analysis. As shown in the figure, the peaks of the LP spectrum represent the formant frequencies.
 
-    - The peaks of the LP spectrum shown in Figure 3 represent the resonant frequencies (also called Formants) of the vocal tract.
+   - The peaks of the LP spectrum shown in Figure 3 represent the resonant frequencies (also called Formants) of the vocal tract.
 
-    - Repeat the above steps for recorded speech of all vowels.
+   - Repeat the above steps for recorded speech of all vowels.
 
-    - Repeat the above procedure for recorded speech of different speakers.
+   - Repeat the above procedure for recorded speech of different speakers.
 
 
