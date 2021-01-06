@@ -1,6 +1,6 @@
 1. Obtaining speech signal
 
-    Load speech signals for heed, head, hod using the provided utility.
+   - Load speech signals for heed, head, hod using the provided utility.
 
 2. To obtain average pitch period
 
