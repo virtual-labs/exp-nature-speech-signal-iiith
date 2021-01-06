@@ -7,15 +7,14 @@
    - Display the recorded speech waveform.
      <center><img src="images/img11.png"> <br></p> </center>
 
-    $/i/$
     Figure 1: Speech waveform for the utterance "heed-head-hod"
 
 
 
    - Select the vowel segment. A segment of the vowel /i/ is shown in the Figure 2.
 <center><img src="images/img12.png"  > <br></p> </center>
-    $/i/$
-    Figure 2: A part of the vowel /a/ in the speech segment of 'hod'
+  
+   Figure 2: A part of the vowel /a/ in the speech segment of 'hod'
 
    - The quasi-periodic nature of prominent peaks shown in Figure 2 is due to the regular vibration of the vocal folds.
 
@@ -38,8 +37,8 @@
 
     Figure 3 shows the LP spectrum obtained using Linear prediction analysis of voiced region of speech segment /hod/ with LP order set to 10.
 <center><img src="images/img14.png"  > <br></p> </center>
-    $/i/$
-    Figure 3: LPC spectrum of a short segment of vowel /a/ in the utterance of 'hod'. The spectrum is obtained using 10th order LP analysis. As shown in the figure, the peaks of the LP spectrum represent the formant frequencies.
+  
+   Figure 3: LPC spectrum of a short segment of vowel /a/ in the utterance of 'hod'. The spectrum is obtained using 10th order LP analysis. As shown in the figure, the peaks of the LP spectrum represent the formant frequencies.
 
    - The peaks of the LP spectrum shown in Figure 3 represent the resonant frequencies (also called Formants) of the vocal tract.
 
